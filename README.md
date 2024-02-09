@@ -1,4 +1,4 @@
-## Uma lista de tarefas em javascript puro
+## Uma calculadora de IMC em javascript puro
 
 Criei esse projeto com o intuito de estudar mais a fundo a linguagem de programação **javascript**, principalmente a como manipular o **DOM** (Document Object Model).
 
