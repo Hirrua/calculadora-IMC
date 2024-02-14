@@ -4,6 +4,8 @@ Criei esse projeto com o intuito de estudar mais a fundo a linguagem de programa
 
 > Uma calculadora de IMC criada apartir do curso de JS na Udemy.
 
+Acesse: (https://hirrua.github.io/calculadora-IMC/)
+
 #### Um pouco sobre o que aprendi
 
 - Funcionalidades básicas (nivel imc, calcular imc).
